@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=Spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring-#6DB33F?style=flat&logo=Spring&logoColor=white"/>
 
 <!--
 **minnju/minnju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
