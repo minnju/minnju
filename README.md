@@ -2,7 +2,7 @@
 
 
     Hi there 👋 I'm Web Developer using Spring,Javascript
-    I hope to be a back-end developer who makes ✨ wonderful things✨ 
+    I hope to be a back-end developer who makes ✨wonderful things✨ 
 
 
 🌱 My Skill Set
